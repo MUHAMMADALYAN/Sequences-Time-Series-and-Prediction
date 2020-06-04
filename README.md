@@ -3,7 +3,7 @@
 
 # Sequence Models
 
-#RNN
+# RNN
 RNN is very helpful as in time series e.g in Stock Market Pervious day data has impact on next day so for this we use RR NN which takes output of pervious cell and input it to next day cell.  and hene preiction of future values become accurate.
 
 # LSTM
